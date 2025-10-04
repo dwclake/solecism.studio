@@ -1,5 +1,8 @@
 # Solecism
 
+*A solecism is a grammatical mistake or an ungrammatical combination of words in a sentence. It can also refer to a breach of etiquette or social decorum.*
+
+
 - Text editor specialized for creative writing.
 - Local storage and optional cloud synchronization integration.
 - Flexible project structure allowing them to be tailored to personal preference.
