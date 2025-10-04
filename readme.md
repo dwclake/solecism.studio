@@ -1,6 +1,6 @@
 # Solecism
 
-*A SOLECISM is a breach of grammatical etiquette, an unconventional combination of words in a sentence.*
+*A SOLECISM is a breach of grammatical etiquette, an unconventional combination of words within a phrase or sentence.*
 
 
 - Text editor specialized for creative writing.
