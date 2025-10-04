@@ -9,6 +9,9 @@
 - Exporting to various formats including PDF, DOCX, EPUB.
 - Custom themes, fonts, and formatting.
 - Real-time collaboration with other users.
-- Available on the web and as an Electron-based desktop application if internet connectivity is a concern.
+- Available on the web (free) and as an Electron-based desktop application (paid) if internet connectivity is a concern.
 - Project targets and goals to keep track of progress.
 - Solecism is open-source and welcomes contributions from the community.
+
+# License
+`Solecism` is distributed under the terms of both the MIT license and the Apache License (Version 2.0). See license-apache and license-mit for details.
