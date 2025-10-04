@@ -13,7 +13,7 @@
 - Project targets and goals to keep track of progress.
 
 # Pricing
-`Solecism` is open-source and free to use. *But...* any donations are welcome to support ongoing development and online features may require an one-time purchase of a premium account to offset running costs.
+`Solecism` is open-source and free to use. *But...* any donations are welcome to support ongoing development and online features may require an one-time purchase of a premium account to offset running costs which is still to be decided.
 
 # License
 `Solecism` is distributed under the terms of both the MIT license and the Apache License (Version 2.0). See license-apache and license-mit for details.
