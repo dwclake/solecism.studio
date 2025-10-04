@@ -2,6 +2,7 @@
 
 > *A **SOLECISM** is a breach of grammatical etiquette, an unconventional combination of words within a phrase or sentence.*
 
+`Solecism` is a text editor designed specifically for creative writers. It provides a distraction-free writing environment with features tailored to the needs of authors, novelists, and poets.
 - Text editor specialized for creative writing.
 - Local storage and optional cloud synchronization integration.
 - Flexible project structure allowing them to be tailored to personal preference.
