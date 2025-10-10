@@ -1,22 +1,26 @@
-import { MetaProvider, Title } from "@solidjs/meta";
-import { Router } from "@solidjs/router";
-import { FileRoutes } from "@solidjs/start/router";
-import { Suspense } from "solid-js";
-import "./app.css";
+import {
+    createBrowserRouter,
+    createRoutesFromElements,
+    Route,
+    RouterProvider
+} from "react-router-dom"
 
-export default function App() {
-  return (
-    <Router
-      root={props => (
-        <MetaProvider>
-          <Title>SolidStart - Basic</Title>
-          <a href="/">Index</a>
-          <a href="/about">About</a>
-          <Suspense>{props.children}</Suspense>
-        </MetaProvider>
-      )}
-    >
-      <FileRoutes />
-    </Router>
-  );
+import { Root } from "~/components"
+import { About, Home } from "~/routes"
+
+import "~/App.css"
+
+const router = createBrowserRouter(createRoutesFromElements(
+    <Route path="/" element={<Root />}>
+        <Route index               element={<Home />} />
+        <Route path="/about"       element={<About />} />
+    </Route>
+))
+
+export const App = () => {
+    return (
+        <div>
+            <RouterProvider router={router} />
+        </div>
+    )
 }
